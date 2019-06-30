@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9e2fd217ad3230334f68f206e3e4870",
+    "revision": "41207b995d407ebd650ce11f23d6737a",
     "url": "/breakout-game/index.html"
   },
   {
-    "revision": "cff158e541e822d667c6",
+    "revision": "440b36a1c08b91ea3f2c",
     "url": "/breakout-game/static/css/main.fd668050.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breakout-game/static/js/2.2a3097d4.chunk.js"
   },
   {
-    "revision": "cff158e541e822d667c6",
-    "url": "/breakout-game/static/js/main.e560c959.chunk.js"
+    "revision": "440b36a1c08b91ea3f2c",
+    "url": "/breakout-game/static/js/main.9095fe34.chunk.js"
   },
   {
     "revision": "15f8e20d4366c01b7a33",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breakout-game/static/css/main.fd668050.chunk.css",
+    "main.js": "/breakout-game/static/js/main.689c0549.chunk.js",
+    "main.js.map": "/breakout-game/static/js/main.689c0549.chunk.js.map",
+    "runtime~main.js": "/breakout-game/static/js/runtime~main.5546415a.js",
+    "runtime~main.js.map": "/breakout-game/static/js/runtime~main.5546415a.js.map",
+    "static/js/2.2a3097d4.chunk.js": "/breakout-game/static/js/2.2a3097d4.chunk.js",
+    "static/js/2.2a3097d4.chunk.js.map": "/breakout-game/static/js/2.2a3097d4.chunk.js.map",
+    "index.html": "/breakout-game/index.html",
+    "precache-manifest.ce60740bf0a13952ba1ae2ba40dc8be7.js": "/breakout-game/precache-manifest.ce60740bf0a13952ba1ae2ba40dc8be7.js",
+    "service-worker.js": "/breakout-game/service-worker.js",
+    "static/css/main.fd668050.chunk.css.map": "/breakout-game/static/css/main.fd668050.chunk.css.map"
+  }
+}

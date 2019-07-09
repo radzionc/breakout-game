@@ -1,5 +1,7 @@
 html {
   height: 100%;
+  --text-color: #ecf0f1;
+  --action-color: #e74c3c;
 }
 
 * {
@@ -35,4 +37,30 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.scene {
+  border: 2px solid var(--text-color);
+}
+
+.block {
+  stroke-width: 1px;
+  stroke: var(--text-color);
+}
+
+.paddle {
+  fill: #3498db;
+}
+
+.ball {
+  fill: var(--action-color);
+}
+
+.level {
+  font-weight: bold;
+  fill: var(--text-color);
+}
+
+.life {
+  fill: var(--action-color);
 }

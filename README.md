@@ -15,6 +15,8 @@ npm install
 npm start
 ```
 
+## [Udemy Course](https://www.udemy.com/breakout-game-javascript-react-svg)
+
 ## License
 
 MIT © [RodionChachura](https://geekrodion.com)

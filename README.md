@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-## [Udemy Course](https://www.udemy.com/breakout-game-javascript-react-svg)
+## [SKILLSHARE Course](https://skl.sh/30II4h8)
 
 ## License
 

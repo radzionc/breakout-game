@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-## [SKILLSHARE Course](https://skl.sh/30II4h8)
+## [Blog Post](https://geekrodion.com/blog/breakout-game)
 
 ## License
 
